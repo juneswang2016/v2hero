@@ -1,11 +1,11 @@
 {
-  "name": "V2Ray ",
+  "name": "V2Ray",
   "description": "deploy V2ray to Heroku.",
   "keywords": ["V2Ray","V2Fly","Docker"],
   "env": {
      "UUID": {
        "description": "VMess用户的主ID, uuidgenerator.net",
-       "value": "65f11be5-ac71-4f0c-874b-d93c610c66ef"
+       "value": "f9911184-68b7-11ea-bc55-0242ac130003"
      },
      "CONFIG_JSON1": {
             "description": "v2ray配置，默认即可",
